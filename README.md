@@ -12,11 +12,13 @@
 
   ### Stack Navigator
 
-  - is a JavaScript based navigator which offers high degree of customization, making it a great choice for apps that require unique navigation experience.
+- is a JavaScript based navigator which offers high degree of customization, making it a great choice for apps that require unique navigation experience.
 
 - However, this comes at the cost of performace especially when its counterpart, the Native Stack Navigator
-  ### Native Stack Navigator
-  - leverges the native navigation construcs of ios and Android, providing better performace and more native feel to the transitions and gestures
+
+### Native Stack Navigator
+
+- leverges the native navigation construcs of ios and Android, providing better performace and more native feel to the transitions and gestures
 
 ## Drawer Navigation
 
